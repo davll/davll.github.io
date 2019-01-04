@@ -1,1 +1,0 @@
-initSidebarItems({"struct":[["DualQuat","Dual Quaternion"]]});
