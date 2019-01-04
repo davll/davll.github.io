@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://davll.me/categories/</loc>
+    <loc>http://davll.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://davll.me/</loc>
+    <loc>http://davll.github.io/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://davll.me/tags/</loc>
+    <loc>http://davll.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
