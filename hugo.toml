@@ -1,0 +1,3 @@
+baseURL = 'https://davll.me/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
